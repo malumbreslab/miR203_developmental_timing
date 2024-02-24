@@ -4,7 +4,7 @@
 
 This github repository contains the analysis code used in "miR-203 controls developmental timing and early fate restriction during preimplantation embryogenesis" published in bioRxiv:
 
-Link: [https://www.science.org/doi/10.1126/sciadv.abq5914](https://www.biorxiv.org/content/10.1101/2024.02.06.579214v1)
+Link: [https://www.biorxiv.org/content/10.1101/2024.02.06.579214v1](https://www.biorxiv.org/content/10.1101/2024.02.06.579214v1)
 
 ## Table of contents
 
