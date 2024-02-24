@@ -18,5 +18,5 @@ scRNA-seq data are available at the GEO repository under the accession code: . U
 
 ## Scripts
 
-- [Ultra_low_input_RNAseq_analysis.ipynb](/scripts/Ultra_low_input_RNAseq_analysis.ipynb): Using as input files counts.txt file and metadata, it is done a preprocessing, exploratory analysis, dimensional reduction, scoring calculations of signatures and differential expression.
+- [Ultra_low_input_RNAseq_analysis.ipynb](/scripts/Ultra_low_input_RNAseq_analysis.ipynb): Using as input files counts.txt file and metadata, it is done a preprocessing, exploratory analysis, dimensional reduction, score calculations of signatures and differential expression.
 
