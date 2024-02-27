@@ -31,7 +31,7 @@ scRNA-seq data are available at the GEO repository under the accession code: . U
 
 ## Authors
 
-All scripts uploaded here has been done by:
+All uploaded scripts have been done by:
 
 - Marcos Malumbres
 - Agustín Sánchez-Belmonte
