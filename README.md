@@ -29,3 +29,9 @@ scRNA-seq data are available at the GEO repository under the accession code: . U
 - [B2.Downstream_analysis_paper_figures.ipynb](/scripts/scRNAseq/B2.Downstream_analysis_paper_figures.ipynb): Use Part B1 outfile and only visualization tasks are done, paper figures were created in that notebook.
 - [C.Differential_expression_and_functional_analysis.ipynb](/scripts/scRNAseq/C.Differential_expression_and_functional_analysis.ipynb): In this notebooks has been done differential expresion and functional analysis doing comparisons of subpopulations, treatments, conditions and others. The h5ad file output of B1 part has been use in this notebook.
 
+## Authors
+
+All scripts uploaded here has been done by:
+
+- Marcos Malumbres
+- Agustín Sánchez-Belmonte
