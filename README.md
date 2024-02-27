@@ -14,7 +14,7 @@ Link: [https://www.biorxiv.org/content/10.1101/2024.02.06.579214v1](https://www.
 
 ## Data
 
-scRNA-seq data are available at the GEO repository under the accession code: . Ultra-low input bulk RNA-seq data are available at the GEO repository under the accession code: . Ultra-low input CUT&RUN data are available at the GEO repository under the accession code: . All data needed to evaluate the conclusions in the paper are present in the paper and/or the Supplementary Materials.
+All data of the project are available at the GEO repository under the accession code: GSE259428. This SuperSeries record provides access to all project data including SubSeries of Cut&Run data (GSE259425), Ultra-low input bulk RNA-seq (GSE259426) and single-cell RNA sequencing data (GSE259427). All data needed to evaluate the conclusions in the paper are present in the paper and/or the Supplementary Materials.
 
 ## Scripts
 
